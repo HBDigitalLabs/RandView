@@ -42,31 +42,3 @@ class AppColors {
   // static const accentSoft = Color(0x3300E3CD);
 
 }
-
-/*
-class AppColors {
-
-  // Backgrounds
-  static const background = Color(0xFF0B0B0B);
-  static const appBar = Color(0xFF131313);
-
-  // Surfaces
-  static const surface = Color(0xFF1F1F1F);
-  static const surfaceVariant = Color.fromARGB(255, 24, 24, 24);
-
-  // Interaction
-  static const hover = Color(0xFF333333);
-  static const pressed = Color.fromARGB(255, 85, 85, 85);
-
-  // Lines / borders
-  static const divider = Color(0xFF141414);
-
-  // Text
-  static const textPrimary = Color(0xFFFFFFFF);
-  static const textSecondary = Color(0xFFB3B3B3);
-
-  // Accent
-  static const accent = Color(0xFF00E3CD);
-  static const accentSoft = Color(0x3300E3CD);
-
-}*/
