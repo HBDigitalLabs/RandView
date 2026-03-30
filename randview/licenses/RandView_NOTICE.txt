@@ -1,0 +1,4 @@
+Copyright 2026 Hüseyin Berke - HBDigitalLabs
+
+This project was developed by Hüseyin Berke.
+It is licensed under the Apache License, Version 2.0.
